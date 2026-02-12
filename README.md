@@ -42,6 +42,6 @@ make
 - Armazenamento em variáveis
 - Exibição e formatação de informações no console
 - Interação com o usuário
-- Lógica de comparação de atributos
-- Criação de menus interativos
-- Estruturas condicionais avançadas (if-else aninhado e switch case)
+- Lógica de comparação avançada de múltiplos atributos
+- Criação de menus dinâmicos
+- Estruturas condicionais avançadas (if-else aninhado, switch case e operador ternário)
